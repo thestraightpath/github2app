@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_35505_github2app_github2apptable</description>
+        <name>x_35505_github2app_github2apptable</name>
+        <operation display_value="delete">delete</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-17 13:23:19</sys_created_on>
+        <sys_id>d811db211b70301077ebed74604bcbeb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_35505_github2app_github2apptable</sys_name>
+        <sys_package display_value="GitHub2App" source="x_35505_github2app">f8e01f6d1b30301077ebed74604bcb13</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GitHub2App">f8e01f6d1b30301077ebed74604bcb13</sys_scope>
+        <sys_update_name>sys_security_acl_d811db211b70301077ebed74604bcbeb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-17 13:23:19</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>

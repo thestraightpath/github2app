@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="github2apptable" max_length="40" name="x_35505_github2app_github2apptable" type="collection"/>
+</database>
